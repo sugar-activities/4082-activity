@@ -1,0 +1,326 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-12 00:30-0400\n"
+"PO-Revision-Date: 2011-12-16 06:01+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Paint"
+msgstr "ペイント"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Picasso? Van Gogh? You can be any of them! Just let the artist inside you "
+"free. Transform images in your mind to beautiful paintings."
+msgstr ""
+
+#: fontcombobox.py:89
+msgid "Select font"
+msgstr ""
+
+#: toolbox.py:118
+msgid "Edit"
+msgstr "編集"
+
+#: toolbox.py:122
+msgid "Shapes properties"
+msgstr ""
+
+#: toolbox.py:133
+msgid "Shapes"
+msgstr "図形"
+
+#: toolbox.py:143
+msgid "Fonts"
+msgstr ""
+
+#: toolbox.py:149
+msgid "Image"
+msgstr "画像"
+
+#: toolbox.py:188
+msgid "Undo"
+msgstr "元に戻す"
+
+#: toolbox.py:189
+msgid "Redo"
+msgstr "やり直し"
+
+#: toolbox.py:190
+msgid "Copy"
+msgstr "コピー"
+
+#: toolbox.py:191
+msgid "Paste"
+msgstr "貼り付け"
+
+#: toolbox.py:199
+msgid "Clear"
+msgstr "クリア"
+
+#: toolbox.py:298 widgets.py:322
+msgid "Brush properties"
+msgstr ""
+
+#: toolbox.py:307 toolbox.py:311
+msgid "Brush"
+msgstr "ブラシ"
+
+#: toolbox.py:314
+msgid "Eraser"
+msgstr "消しゴム"
+
+#: toolbox.py:317
+msgid "Bucket"
+msgstr "バケツ"
+
+#: toolbox.py:320
+msgid "Picker"
+msgstr ""
+
+#: toolbox.py:323
+msgid "Stamp"
+msgstr ""
+
+#: toolbox.py:336
+msgid "Select Area"
+msgstr ""
+
+#: toolbox.py:415
+msgid "Fill"
+msgstr "塗りつぶし"
+
+#: toolbox.py:421 widgets.py:286
+msgid "Keep aspect"
+msgstr ""
+
+#: toolbox.py:438
+msgid "Sides: "
+msgstr "辺: "
+
+#: toolbox.py:511
+msgid "Ellipse"
+msgstr "楕円"
+
+#: toolbox.py:514
+msgid "Rectangle"
+msgstr "長方形"
+
+#: toolbox.py:517
+msgid "Line"
+msgstr "線"
+
+#: toolbox.py:520
+msgid "Free form"
+msgstr ""
+
+#: toolbox.py:523
+msgid "Polygon"
+msgstr "多角形"
+
+#: toolbox.py:526
+msgid "Heart"
+msgstr "ハート形"
+
+#: toolbox.py:529
+msgid "Parallelogram"
+msgstr "平行四辺形"
+
+#: toolbox.py:532
+msgid "Arrow"
+msgstr "矢印"
+
+#: toolbox.py:535
+msgid "Star"
+msgstr "星型"
+
+#: toolbox.py:538
+msgid "Trapezoid"
+msgstr "台形"
+
+#: toolbox.py:541
+msgid "Triangle"
+msgstr "三角形"
+
+#: toolbox.py:574
+msgid "Type"
+msgstr "文字入力"
+
+#: toolbox.py:665
+msgid "Insert Image"
+msgstr "画像を挿入"
+
+#: toolbox.py:678
+msgid "Rotate Left"
+msgstr "左回転"
+
+#: toolbox.py:682
+msgid "Rotate Right"
+msgstr "右回転"
+
+#: toolbox.py:687
+msgid "Horizontal Mirror"
+msgstr ""
+
+#: toolbox.py:692
+msgid "Vertical Mirror"
+msgstr ""
+
+#: toolbox.py:700
+msgid "Grayscale"
+msgstr "グレイスケール"
+
+#: toolbox.py:703
+msgid "Rainbow"
+msgstr "虹"
+
+#: toolbox.py:708
+msgid "Invert Colors"
+msgstr ""
+
+#: widgets.py:17
+msgid "Size: "
+msgstr "サイズ: "
+
+#: widgets.py:17
+msgid "Opacity: "
+msgstr ""
+
+#: widgets.py:17
+msgid "Circle"
+msgstr "円"
+
+#: widgets.py:17
+msgid "Square"
+msgstr "四角"
+
+#: widgets.py:31
+msgid "Choose brush properties"
+msgstr ""
+
+#: widgets.py:245
+msgid "Size"
+msgstr ""
+
+#: widgets.py:259
+msgid "Opacity"
+msgstr ""
+
+#: widgets.py:280
+msgid "Shape"
+msgstr "形"
+
+#: widgets.py:317
+msgid "Stamp properties"
+msgstr ""
+
+#~ msgid "Height"
+#~ msgstr "高さ"
+
+#~ msgid "Width"
+#~ msgstr "幅"
+
+#~ msgid "Choose image"
+#~ msgstr "画像を選択"
+
+#~ msgid "Tools"
+#~ msgstr "ツール"
+
+#~ msgid "Text"
+#~ msgstr "文字"
+
+#~ msgid "Effects"
+#~ msgstr "効果"
+
+#~ msgid "Stroke Color"
+#~ msgstr "線の色"
+
+#~ msgid "Pencil"
+#~ msgstr "鉛筆"
+
+#~ msgid "Fill Color"
+#~ msgstr "塗りつぶしの色"
+
+#~ msgid "Points: "
+#~ msgstr "点: "
+
+#~ msgid "1000"
+#~ msgstr "1000"
+
+#~ msgid "500"
+#~ msgstr "500"
+
+#~ msgid "200"
+#~ msgstr "200"
+
+#~ msgid "150"
+#~ msgstr "150"
+
+#~ msgid "100"
+#~ msgstr "100"
+
+#~ msgid "50"
+#~ msgstr "50"
+
+#~ msgid "25"
+#~ msgstr "25"
+
+#~ msgid "10"
+#~ msgstr "10"
+
+#~ msgid "ZOOM +"
+#~ msgstr "拡大"
+
+#~ msgid "ZOOM -"
+#~ msgstr "縮小"
+
+#~ msgid "Rectangular Marquee"
+#~ msgstr "四角のマーキー"
+
+#~ msgid "Tool Color"
+#~ msgstr "ツールの色"
+
+#~ msgid "Fill Color: "
+#~ msgstr "塗りつぶしの色: "

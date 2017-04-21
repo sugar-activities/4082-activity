@@ -1,0 +1,10 @@
+%%
+headers
+#include <Python.h>               
+#include "eggfill.h"
+%%
+modulename _fill
+%%
+ignore-glob
+  *_get_type                            
+%%

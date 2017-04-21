@@ -1,0 +1,325 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-12 00:30-0400\n"
+"PO-Revision-Date: 2008-10-06 10:52-0400\n"
+"Last-Translator: abdullah kocabas <abdullah.kocabas@abcdizustu.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.0\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Paint"
+msgstr "Boyama"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Picasso? Van Gogh? You can be any of them! Just let the artist inside you "
+"free. Transform images in your mind to beautiful paintings."
+msgstr ""
+
+#: fontcombobox.py:89
+msgid "Select font"
+msgstr ""
+
+#: toolbox.py:118
+msgid "Edit"
+msgstr "Düzenle"
+
+#: toolbox.py:122
+msgid "Shapes properties"
+msgstr ""
+
+#: toolbox.py:133
+msgid "Shapes"
+msgstr "Şekiller"
+
+#: toolbox.py:143
+msgid "Fonts"
+msgstr ""
+
+#: toolbox.py:149
+msgid "Image"
+msgstr "Görüntü"
+
+#: toolbox.py:188
+msgid "Undo"
+msgstr "Geri al"
+
+#: toolbox.py:189
+msgid "Redo"
+msgstr "Yeniden yap"
+
+#: toolbox.py:190
+msgid "Copy"
+msgstr "Kopyala"
+
+#: toolbox.py:191
+msgid "Paste"
+msgstr "Yapıştır"
+
+#: toolbox.py:199
+msgid "Clear"
+msgstr "Temizle"
+
+#: toolbox.py:298 widgets.py:322
+msgid "Brush properties"
+msgstr ""
+
+#: toolbox.py:307 toolbox.py:311
+msgid "Brush"
+msgstr "Fırça"
+
+#: toolbox.py:314
+msgid "Eraser"
+msgstr "Silgi"
+
+#: toolbox.py:317
+msgid "Bucket"
+msgstr "Kova"
+
+#: toolbox.py:320
+msgid "Picker"
+msgstr ""
+
+#: toolbox.py:323
+msgid "Stamp"
+msgstr ""
+
+#: toolbox.py:336
+msgid "Select Area"
+msgstr ""
+
+#: toolbox.py:415
+msgid "Fill"
+msgstr "Doldur"
+
+#: toolbox.py:421 widgets.py:286
+msgid "Keep aspect"
+msgstr ""
+
+#: toolbox.py:438
+msgid "Sides: "
+msgstr "Kenarlar:"
+
+#: toolbox.py:511
+msgid "Ellipse"
+msgstr "Elips"
+
+#: toolbox.py:514
+msgid "Rectangle"
+msgstr "Dikdörtgen"
+
+#: toolbox.py:517
+msgid "Line"
+msgstr "Çizgi"
+
+#: toolbox.py:520
+msgid "Free form"
+msgstr ""
+
+#: toolbox.py:523
+msgid "Polygon"
+msgstr "Çokgen"
+
+#: toolbox.py:526
+msgid "Heart"
+msgstr "Kalp"
+
+#: toolbox.py:529
+msgid "Parallelogram"
+msgstr "Paralelkenar"
+
+#: toolbox.py:532
+msgid "Arrow"
+msgstr "Ok"
+
+#: toolbox.py:535
+msgid "Star"
+msgstr "Yıldız"
+
+#: toolbox.py:538
+msgid "Trapezoid"
+msgstr "İkizkenar yamuk"
+
+#: toolbox.py:541
+msgid "Triangle"
+msgstr "Üçgen"
+
+#: toolbox.py:574
+msgid "Type"
+msgstr "Yaz"
+
+#: toolbox.py:665
+msgid "Insert Image"
+msgstr "Resim Ekle"
+
+#: toolbox.py:678
+msgid "Rotate Left"
+msgstr "Sola döndür"
+
+#: toolbox.py:682
+msgid "Rotate Right"
+msgstr "Sağa döndür"
+
+#: toolbox.py:687
+msgid "Horizontal Mirror"
+msgstr ""
+
+#: toolbox.py:692
+msgid "Vertical Mirror"
+msgstr ""
+
+#: toolbox.py:700
+msgid "Grayscale"
+msgstr "Gri ton"
+
+#: toolbox.py:703
+msgid "Rainbow"
+msgstr "Gökkuşağı"
+
+#: toolbox.py:708
+msgid "Invert Colors"
+msgstr ""
+
+#: widgets.py:17
+msgid "Size: "
+msgstr "Boyut"
+
+#: widgets.py:17
+msgid "Opacity: "
+msgstr ""
+
+#: widgets.py:17
+msgid "Circle"
+msgstr "Çember"
+
+#: widgets.py:17
+msgid "Square"
+msgstr "Kare"
+
+#: widgets.py:31
+msgid "Choose brush properties"
+msgstr ""
+
+#: widgets.py:245
+msgid "Size"
+msgstr ""
+
+#: widgets.py:259
+msgid "Opacity"
+msgstr ""
+
+#: widgets.py:280
+msgid "Shape"
+msgstr "Şekil"
+
+#: widgets.py:317
+msgid "Stamp properties"
+msgstr ""
+
+#~ msgid "Height"
+#~ msgstr "Yükseklik"
+
+#~ msgid "Width"
+#~ msgstr "Genişlik"
+
+#~ msgid "Choose image"
+#~ msgstr "Resim seç"
+
+#~ msgid "Tools"
+#~ msgstr "Araçlar"
+
+#~ msgid "Text"
+#~ msgstr "Metin"
+
+#~ msgid "Effects"
+#~ msgstr "Etkiler"
+
+#~ msgid "Stroke Color"
+#~ msgstr "Boya Darbesi"
+
+#~ msgid "Pencil"
+#~ msgstr "Kurşunkalem"
+
+#~ msgid "Fill Color"
+#~ msgstr "Boya"
+
+#~ msgid "Points: "
+#~ msgstr "Noktalar"
+
+#~ msgid "1000"
+#~ msgstr "1000"
+
+#~ msgid "500"
+#~ msgstr "500"
+
+#~ msgid "200"
+#~ msgstr "200"
+
+#~ msgid "150"
+#~ msgstr "150"
+
+#~ msgid "100"
+#~ msgstr "100"
+
+#~ msgid "50"
+#~ msgstr "50"
+
+#~ msgid "25"
+#~ msgstr "25"
+
+#~ msgid "10"
+#~ msgstr "10"
+
+#~ msgid "ZOOM +"
+#~ msgstr "Yakınlaştır +"
+
+#~ msgid "ZOOM -"
+#~ msgstr "Uzaklaştır -"
+
+#~ msgid "Rectangular Marquee"
+#~ msgstr "Dikdörtgen Çerçeve"
+
+#~ msgid "Tool Color"
+#~ msgstr "Araç Renkleri"
+
+#~ msgid "Fill Color: "
+#~ msgstr "Boyama:"

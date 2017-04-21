@@ -1,0 +1,337 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-12 00:30-0400\n"
+"PO-Revision-Date: 2013-11-11 16:35+0200\n"
+"Last-Translator: arosella <arosella@yahoo.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Paint"
+msgstr "Disegna"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Picasso? Van Gogh? You can be any of them! Just let the artist inside you "
+"free. Transform images in your mind to beautiful paintings."
+msgstr ""
+"Picasso? Van Gogh? Puoi essere chiunque! Libera l'artista che è in te. "
+"Trasforma le immagini nella tua mente in bellissimi dipinti."
+
+#: fontcombobox.py:89
+msgid "Select font"
+msgstr "Scegli il carattere"
+
+#: toolbox.py:118
+msgid "Edit"
+msgstr "Modifica"
+
+#: toolbox.py:122
+msgid "Shapes properties"
+msgstr "Proprietà delle forme"
+
+#: toolbox.py:133
+msgid "Shapes"
+msgstr "Forme"
+
+#: toolbox.py:143
+msgid "Fonts"
+msgstr "Caratteri"
+
+#: toolbox.py:149
+msgid "Image"
+msgstr "Immagine"
+
+#: toolbox.py:188
+msgid "Undo"
+msgstr "Annulla"
+
+#: toolbox.py:189
+msgid "Redo"
+msgstr "Riesegui"
+
+#: toolbox.py:190
+msgid "Copy"
+msgstr "Copia"
+
+#: toolbox.py:191
+msgid "Paste"
+msgstr "Incolla"
+
+#: toolbox.py:199
+msgid "Clear"
+msgstr "Pulisci"
+
+#: toolbox.py:298 widgets.py:322
+msgid "Brush properties"
+msgstr "Proprietà del pennello"
+
+#: toolbox.py:307 toolbox.py:311
+msgid "Brush"
+msgstr "Pennello"
+
+#: toolbox.py:314
+msgid "Eraser"
+msgstr "Gomma"
+
+#: toolbox.py:317
+msgid "Bucket"
+msgstr "Secchio"
+
+#: toolbox.py:320
+msgid "Picker"
+msgstr "Selezionatore"
+
+#: toolbox.py:323
+msgid "Stamp"
+msgstr "Timbro"
+
+#: toolbox.py:336
+msgid "Select Area"
+msgstr "Seleziona Area"
+
+#: toolbox.py:415
+msgid "Fill"
+msgstr "Riempi"
+
+#: toolbox.py:421 widgets.py:286
+msgid "Keep aspect"
+msgstr "Conserva le proporzioni"
+
+#: toolbox.py:438
+msgid "Sides: "
+msgstr "Lati: "
+
+#: toolbox.py:511
+msgid "Ellipse"
+msgstr "Ellisse"
+
+#: toolbox.py:514
+msgid "Rectangle"
+msgstr "Rettangolo"
+
+#: toolbox.py:517
+msgid "Line"
+msgstr "Linea"
+
+#: toolbox.py:520
+msgid "Free form"
+msgstr "Forma libera"
+
+#: toolbox.py:523
+msgid "Polygon"
+msgstr "Poligono"
+
+#: toolbox.py:526
+msgid "Heart"
+msgstr "Cuore"
+
+#: toolbox.py:529
+msgid "Parallelogram"
+msgstr "Parallelogramma"
+
+#: toolbox.py:532
+msgid "Arrow"
+msgstr "Freccia"
+
+#: toolbox.py:535
+msgid "Star"
+msgstr "Stella"
+
+#: toolbox.py:538
+msgid "Trapezoid"
+msgstr "Trapezio"
+
+#: toolbox.py:541
+msgid "Triangle"
+msgstr "Triangolo"
+
+#: toolbox.py:574
+msgid "Type"
+msgstr "Tipo"
+
+#: toolbox.py:665
+msgid "Insert Image"
+msgstr "Inserisci Immagine"
+
+#: toolbox.py:678
+msgid "Rotate Left"
+msgstr "Ruota a Sinistra"
+
+#: toolbox.py:682
+msgid "Rotate Right"
+msgstr "Ruota a Destra"
+
+#: toolbox.py:687
+msgid "Horizontal Mirror"
+msgstr "Specchio Orizzontale"
+
+#: toolbox.py:692
+msgid "Vertical Mirror"
+msgstr "Specchio Verticale"
+
+#: toolbox.py:700
+msgid "Grayscale"
+msgstr "Scala di grigi"
+
+#: toolbox.py:703
+msgid "Rainbow"
+msgstr "Arcobaleno"
+
+#: toolbox.py:708
+msgid "Invert Colors"
+msgstr "Inverti colori"
+
+#: widgets.py:17
+msgid "Size: "
+msgstr "Dimensione: "
+
+#: widgets.py:17
+msgid "Opacity: "
+msgstr "Opacità: "
+
+#: widgets.py:17
+msgid "Circle"
+msgstr "Cerchio"
+
+#: widgets.py:17
+msgid "Square"
+msgstr "Quadrato"
+
+#: widgets.py:31
+msgid "Choose brush properties"
+msgstr "Scegli le proprietà del pennello"
+
+#: widgets.py:245
+msgid "Size"
+msgstr "Dimensione"
+
+#: widgets.py:259
+msgid "Opacity"
+msgstr "Opacità"
+
+#: widgets.py:280
+msgid "Shape"
+msgstr "Forma"
+
+#: widgets.py:317
+msgid "Stamp properties"
+msgstr "Proprietà del timbro"
+
+#~ msgid "Height"
+#~ msgstr "Altezza"
+
+#~ msgid "Width"
+#~ msgstr "Larghezza"
+
+#~ msgid "Choose image"
+#~ msgstr "Scegli immagine"
+
+#~ msgid "Tools"
+#~ msgstr "Strumenti"
+
+#~ msgid "Text"
+#~ msgstr "Testo"
+
+#~ msgid "Effects"
+#~ msgstr "Effetti"
+
+#~ msgid "Stroke Color"
+#~ msgstr "Colore Tratto"
+
+#~ msgid "Pencil"
+#~ msgstr "Matita"
+
+#~ msgid "Fill Color"
+#~ msgstr "Colore Riempimento"
+
+#~ msgid "Points: "
+#~ msgstr "Punti: "
+
+#~ msgid "Keep Aspect"
+#~ msgstr "Conserva le proporzioni"
+
+#~ msgid "1000"
+#~ msgstr "1000"
+
+#~ msgid "500"
+#~ msgstr "500"
+
+#~ msgid "200"
+#~ msgstr "200"
+
+#~ msgid "150"
+#~ msgstr "150"
+
+#~ msgid "100"
+#~ msgstr "100"
+
+#~ msgid "50"
+#~ msgstr "50"
+
+#~ msgid "25"
+#~ msgstr "25"
+
+#~ msgid "10"
+#~ msgstr "10"
+
+#~ msgid "ZOOM +"
+#~ msgstr "ZOOM +"
+
+#~ msgid "ZOOM -"
+#~ msgstr "ZOOM -"
+
+#~ msgid "Mirror Horizontal"
+#~ msgstr "Specchio orizzontale"
+
+#~ msgid "Mirror Vertical"
+#~ msgstr "Specchio verticale"
+
+#~ msgid "Rectangular Marquee"
+#~ msgstr "Selezione Rettangolare"
+
+#~ msgid "Tool Color"
+#~ msgstr "Colore Strumento"
+
+#~ msgid "Fill Color: "
+#~ msgstr "Colore Riempimento: "

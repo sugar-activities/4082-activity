@@ -1,0 +1,156 @@
+27
+
+* Text entries are not working #942
+
+26
+
+* Select tool: add fixed ratio support
+
+25
+
+* #921 Use current screen size as an intial size for new picture
+
+24
+
+* Add binary blobs selector
+
+23
+
+* Fix MANIFEST to remove pseudo.po (morgs)
+* #8411: Add license to activity.info (morgs)
+
+22
+
+* #8285: Try to use queue_draw_area() instead of queue_draw() (unmadindu)
+
+21
+
+* #8285 Make pencil tool use the brush - partial workaround (unmadindu)
+* #8180 Local variables (in the stack) may be initialized NULL by default
+ (tomeu)
+* Fix MANIFEST
+* Updated translation: ja
+
+20
+
+* Updated translations from Pootle. (various translators)
+* Updated icon (trac #7139).
+
+19
+
+* Updated translations from Pootle. (various translators)
+
+18
+
+* #5903: Fix the rotate left icon. (erikos)
+
+17
+
+* Make the fix for #5586 work with security. (tomeu)
+
+16
+
+* #5586: Copy clippings as text/uri-list. (tomeu)
+
+15
+
+MANIFEST was not updated in previous release
+
+14
+
+Bug #4806 solved: icons missing (Clear and Rainbow) (alexandre)
+MANIFEST file updated (now it includes new languages from pootle) (alexandre)
+Translations updated (from pootle)
+
+13
+
+* Bug #3709 fixed; Right click only works with 'selection' and 'free polygon' (andre)
+* Fixed bug with free polygon (andre)
+* Bug #3703 fixed; 'Crtl+A' select all and 'Crtl+D' deselect, without buttons for now (andre)
+* Bug #3702 fixed; 'Erase' delete selection, 'return' confirm the selection (andre)
+
+12
+
+* Journal is now used to import images - using Sugar's ObjectChooser (alexandre)
+* Drawing area now fits usable area (alexandre)
+* Fixed bug in "Insert Image" (andre)
+* Added rotate (andre)
+* Now effects can be used in selection (andre)
+
+11
+
+* Bug #3749 fixed; resuming from Journal is working again (alexandre)
+* Fixed memory leak when using "Bucket" tool (bgola`)
+* Reduced memory usage in resize functions (barbolo)
+
+10
+
+* Bug #3558 update spanish translations
+
+9
+
+8
+
+* Translation are working, directory structure modified (nathalia.sautchuk)
+* Many improvements in palettes; size now is only choosen inside tool palette (alexandre)
+* User may choose 'line shape' in rainbow effect (alexandre)
+* Added greek and arabic translations (nathalia.sautchuk)
+* Bug #3320 fixed; Default tab now is 'Tools' (alexandre)
+* Bug #3172 fixed. Paint now start with 'Pencil' tool selected (alexandre)
+* Writting tool improved (alexandre)
+* Bug #2147 fixed (alexandre)
+* toolbar use button copy only when something is selected (pekayatt)
+* New move_selection function, now past and import are really nice (pekayatt)
+* Sel functions improved, import and past now select the image, and can_undo fixed for first undo(pekayatt)
+* Fixed bug with brush and selection, and you can not undo when file is resumed in Journal(pekayatt)
+
+7
+
+* Build as Paint not oficina
+* Clean up NEWS file - please use setup.py release to do releases
+
+6
+
+* Added 'Clear' button (alexandre)
+* Modifications on selection and gelection bounds (pekayatt)
+* Added rainbow effect (andremossinato)
+* Side number for regular polygon can be choosen (alexandre)
+* New shape available: Heart (andremossinato)
+
+4
+
+* Now paste and copy are integrated to Sugar (pekayatt)
+* Colors now are choosen from a ColorButton. Selected color is shown, not its name (alexandre)
+* Adjust in Undo/Redo functions, now we have a limit (on 10 times) (pekayatt)
+* New past and copy funcions, improvements on selection func (pekayatt)
+* Fixed bug with pixmap_temp
+* New FILL fuction, linked to C module (pekayatt)
+* Color list in Area.py is not used anymore. Toolbox.py now passes a gdk.Color (nathalia.sautchuk, alexandre)
+* Fixed Cursors errors (nathalia.sautchuk)
+* Fixed Image load bug, now enableUndo is working with it (pekayatt)
+* Added COPYING (alexandre)
+* Fixed bug that corrupted colors in toolbox.py (alexandre)
+* Adding file header and cleaning unused files (nathalia.sautchuk)
+* Tools assigned by string instead of numbers (nathalia.sautchuk)
+* Changing and Adding new colors (nathalia.sautchuk)
+* ToolsToolbar now keeps color and size when user chooses different tools (alexandre)
+* Adding new cursors (nathalia.sautchuk)
+* New selection, the selectionbox remains (pekayatt)
+* Fixed line size (nathalia.sautchuk, alexandre)
+* Implemented Eraser shapes (nathalia.sautchuk)
+* Fixed undo bugs and new selection function (pekayatt)
+* Trapezoid and triangle functions added, minor changes on fill function, bug on fuction undo solved (andre)
+* Fill function changed (alexandre)
+
+3
+
+* Addition of a new SVG Icon with fixes to some bugs. Project name changed from Oficina to Paint
+
+2
+
+* Make it work with python setup.py: John (J5) Palmieri and Manusheel Gupta
+
+1
+
+* First Sugar Version: joyce, andremossinato, pekayatt, barbolo, nathalia.sautchuk, alexandre from LSI Research Group, University of São Paulo, Brazil with manusheel gupta(manu@laptop.org) and Eben Eliason(eben@laptop.org)from OLPC, Cambridge
+

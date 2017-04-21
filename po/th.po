@@ -1,0 +1,320 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-12 00:30-0400\n"
+"PO-Revision-Date: 2012-03-09 10:24+0200\n"
+"Last-Translator: Meechai <malaku38@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Paint"
+msgstr "วาดภาพ"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Picasso? Van Gogh? You can be any of them! Just let the artist inside you "
+"free. Transform images in your mind to beautiful paintings."
+msgstr ""
+
+#: fontcombobox.py:89
+msgid "Select font"
+msgstr ""
+
+#: toolbox.py:118
+msgid "Edit"
+msgstr "แก้ไข"
+
+#: toolbox.py:122
+msgid "Shapes properties"
+msgstr "คุณสมบัติของรูปร่าง"
+
+#: toolbox.py:133
+msgid "Shapes"
+msgstr "รูปทรง"
+
+#: toolbox.py:143
+msgid "Fonts"
+msgstr "แบบอักษร"
+
+#: toolbox.py:149
+msgid "Image"
+msgstr "รูปภาพ"
+
+#: toolbox.py:188
+msgid "Undo"
+msgstr "เลิกทำ"
+
+#: toolbox.py:189
+msgid "Redo"
+msgstr "ทำซ้ำ"
+
+#: toolbox.py:190
+msgid "Copy"
+msgstr "คัดลอก"
+
+#: toolbox.py:191
+msgid "Paste"
+msgstr "วาง"
+
+#: toolbox.py:199
+msgid "Clear"
+msgstr "ล้าง"
+
+#: toolbox.py:298 widgets.py:322
+msgid "Brush properties"
+msgstr "คุณสมบัติของแปรง"
+
+#: toolbox.py:307 toolbox.py:311
+msgid "Brush"
+msgstr "แปรง"
+
+#: toolbox.py:314
+msgid "Eraser"
+msgstr "ยางลบ"
+
+#: toolbox.py:317
+msgid "Bucket"
+msgstr "ถังสี"
+
+#: toolbox.py:320
+msgid "Picker"
+msgstr ""
+
+#: toolbox.py:323
+msgid "Stamp"
+msgstr "ประทับ"
+
+#: toolbox.py:336
+msgid "Select Area"
+msgstr "เลือกพื้นที่"
+
+#: toolbox.py:415
+msgid "Fill"
+msgstr "เติม"
+
+#: toolbox.py:421 widgets.py:286
+msgid "Keep aspect"
+msgstr "คงมุมมองไว้"
+
+#: toolbox.py:438
+msgid "Sides: "
+msgstr "ด้าน: "
+
+#: toolbox.py:511
+msgid "Ellipse"
+msgstr "วงรี"
+
+#: toolbox.py:514
+msgid "Rectangle"
+msgstr "สี่เหลี่ยม"
+
+#: toolbox.py:517
+msgid "Line"
+msgstr "เส้น"
+
+#: toolbox.py:520
+msgid "Free form"
+msgstr "รูปร่างอิสระ"
+
+#: toolbox.py:523
+msgid "Polygon"
+msgstr "รูปหลายเหลี่ยม"
+
+#: toolbox.py:526
+msgid "Heart"
+msgstr "หัวใจ"
+
+#: toolbox.py:529
+msgid "Parallelogram"
+msgstr "สี่เหลี่ยมด้านขนานห"
+
+#: toolbox.py:532
+msgid "Arrow"
+msgstr "ลูกศร"
+
+#: toolbox.py:535
+msgid "Star"
+msgstr "ดาว"
+
+#: toolbox.py:538
+msgid "Trapezoid"
+msgstr "สี่เหลี่ยมคางหมู"
+
+#: toolbox.py:541
+msgid "Triangle"
+msgstr "สามเหลี่ยม"
+
+#: toolbox.py:574
+msgid "Type"
+msgstr "ชนิด"
+
+#: toolbox.py:665
+msgid "Insert Image"
+msgstr "แทรกภาพ"
+
+#: toolbox.py:678
+msgid "Rotate Left"
+msgstr "หมุนซ้าย"
+
+#: toolbox.py:682
+msgid "Rotate Right"
+msgstr "หมุนขวา"
+
+#: toolbox.py:687
+msgid "Horizontal Mirror"
+msgstr "กลับภาพในแนวนอน"
+
+#: toolbox.py:692
+msgid "Vertical Mirror"
+msgstr "กลับภาพในแนวตั้ง"
+
+#: toolbox.py:700
+msgid "Grayscale"
+msgstr "ขาวดำ"
+
+#: toolbox.py:703
+msgid "Rainbow"
+msgstr "รุ้ง"
+
+#: toolbox.py:708
+msgid "Invert Colors"
+msgstr "สลับค่าสี"
+
+#: widgets.py:17
+msgid "Size: "
+msgstr "ขนาด: "
+
+#: widgets.py:17
+msgid "Opacity: "
+msgstr ""
+
+#: widgets.py:17
+msgid "Circle"
+msgstr "วงกลม"
+
+#: widgets.py:17
+msgid "Square"
+msgstr "สี่เหลี่ยม"
+
+#: widgets.py:31
+msgid "Choose brush properties"
+msgstr "เลือกคุณสมบัติของแปรง"
+
+#: widgets.py:245
+msgid "Size"
+msgstr ""
+
+#: widgets.py:259
+msgid "Opacity"
+msgstr ""
+
+#: widgets.py:280
+msgid "Shape"
+msgstr "รูปทรง"
+
+#: widgets.py:317
+msgid "Stamp properties"
+msgstr "คุณสมบัติของประทับ"
+
+#~ msgid "Height"
+#~ msgstr "ความสูง"
+
+#~ msgid "Width"
+#~ msgstr "ความกว้าง"
+
+#~ msgid "Choose image"
+#~ msgstr "เลือกภาพ"
+
+#~ msgid "Tools"
+#~ msgstr "เครื่องมือ"
+
+#~ msgid "Text"
+#~ msgstr "ข้อความ"
+
+#~ msgid "Effects"
+#~ msgstr "ลูกเล่น"
+
+#~ msgid "Pencil"
+#~ msgstr "ดินสอ"
+
+#~ msgid "Fill Color"
+#~ msgstr "เติมสี"
+
+#~ msgid "Points: "
+#~ msgstr "จุด: "
+
+#~ msgid "1000"
+#~ msgstr "1000"
+
+#~ msgid "500"
+#~ msgstr "500"
+
+#~ msgid "200"
+#~ msgstr "200"
+
+#~ msgid "150"
+#~ msgstr "150"
+
+#~ msgid "100"
+#~ msgstr "100"
+
+#~ msgid "50"
+#~ msgstr "50"
+
+#~ msgid "25"
+#~ msgstr "25"
+
+#~ msgid "10"
+#~ msgstr "10"
+
+#~ msgid "ZOOM +"
+#~ msgstr "+ ขยาย"
+
+#~ msgid "ZOOM -"
+#~ msgstr "- ขยาย"
+
+#~ msgid "Tool Color"
+#~ msgstr "สีเครื่องมือ"
+
+#~ msgid "Fill Color: "
+#~ msgstr "เติมสี: "

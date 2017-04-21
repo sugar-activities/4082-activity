@@ -1,0 +1,327 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-12 00:30-0400\n"
+"PO-Revision-Date: 2008-02-18 17:07-0500\n"
+"Last-Translator: Adi Roiban <adiroiban@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2);;\n"
+"X-Generator: Translate Toolkit 1.6.0\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Paint"
+msgstr "Desenează"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Picasso? Van Gogh? You can be any of them! Just let the artist inside you "
+"free. Transform images in your mind to beautiful paintings."
+msgstr ""
+
+#: fontcombobox.py:89
+msgid "Select font"
+msgstr ""
+
+#: toolbox.py:118
+msgid "Edit"
+msgstr "Modifică"
+
+#: toolbox.py:122
+msgid "Shapes properties"
+msgstr ""
+
+#: toolbox.py:133
+msgid "Shapes"
+msgstr "Forme"
+
+#: toolbox.py:143
+msgid "Fonts"
+msgstr ""
+
+#: toolbox.py:149
+msgid "Image"
+msgstr "Imagini"
+
+#: toolbox.py:188
+msgid "Undo"
+msgstr "Anulează"
+
+#: toolbox.py:189
+msgid "Redo"
+msgstr "Refă"
+
+#: toolbox.py:190
+msgid "Copy"
+msgstr "Copiază"
+
+#: toolbox.py:191
+msgid "Paste"
+msgstr "Lipește"
+
+#: toolbox.py:199
+msgid "Clear"
+msgstr "Șterge"
+
+#: toolbox.py:298 widgets.py:322
+msgid "Brush properties"
+msgstr ""
+
+#: toolbox.py:307 toolbox.py:311
+msgid "Brush"
+msgstr "Pensulă"
+
+#: toolbox.py:314
+msgid "Eraser"
+msgstr "Radieră"
+
+#: toolbox.py:317
+msgid "Bucket"
+msgstr "Găleată"
+
+#: toolbox.py:320
+msgid "Picker"
+msgstr ""
+
+#: toolbox.py:323
+msgid "Stamp"
+msgstr ""
+
+#: toolbox.py:336
+msgid "Select Area"
+msgstr ""
+
+#: toolbox.py:415
+msgid "Fill"
+msgstr "Umple"
+
+#: toolbox.py:421 widgets.py:286
+msgid "Keep aspect"
+msgstr ""
+
+#: toolbox.py:438
+msgid "Sides: "
+msgstr "Laturi: "
+
+#: toolbox.py:511
+msgid "Ellipse"
+msgstr "Elipsă"
+
+#: toolbox.py:514
+msgid "Rectangle"
+msgstr "Dreptunghi"
+
+#: toolbox.py:517
+msgid "Line"
+msgstr "Linie"
+
+#: toolbox.py:520
+msgid "Free form"
+msgstr ""
+
+#: toolbox.py:523
+msgid "Polygon"
+msgstr "Poligon"
+
+#: toolbox.py:526
+msgid "Heart"
+msgstr "Inimă"
+
+#: toolbox.py:529
+msgid "Parallelogram"
+msgstr "Paralelogram"
+
+#: toolbox.py:532
+msgid "Arrow"
+msgstr "Săgeată"
+
+#: toolbox.py:535
+msgid "Star"
+msgstr "Stea"
+
+#: toolbox.py:538
+msgid "Trapezoid"
+msgstr "Trapez"
+
+#: toolbox.py:541
+msgid "Triangle"
+msgstr "Triunghi"
+
+#: toolbox.py:574
+msgid "Type"
+msgstr "Tip"
+
+#: toolbox.py:665
+msgid "Insert Image"
+msgstr "Introdu o imagine"
+
+#: toolbox.py:678
+msgid "Rotate Left"
+msgstr "Rotește la stânga"
+
+#: toolbox.py:682
+msgid "Rotate Right"
+msgstr "Rotește la dreapta"
+
+#: toolbox.py:687
+msgid "Horizontal Mirror"
+msgstr ""
+
+#: toolbox.py:692
+msgid "Vertical Mirror"
+msgstr ""
+
+#: toolbox.py:700
+msgid "Grayscale"
+msgstr "Nuanţe de gri"
+
+#: toolbox.py:703
+msgid "Rainbow"
+msgstr "Curcubeu"
+
+#: toolbox.py:708
+msgid "Invert Colors"
+msgstr ""
+
+#: widgets.py:17
+msgid "Size: "
+msgstr "Mărime: "
+
+#: widgets.py:17
+msgid "Opacity: "
+msgstr ""
+
+#: widgets.py:17
+msgid "Circle"
+msgstr "Cerc"
+
+#: widgets.py:17
+msgid "Square"
+msgstr "Pătrat"
+
+#: widgets.py:31
+msgid "Choose brush properties"
+msgstr ""
+
+#: widgets.py:245
+msgid "Size"
+msgstr ""
+
+#: widgets.py:259
+msgid "Opacity"
+msgstr ""
+
+#: widgets.py:280
+msgid "Shape"
+msgstr "Formă"
+
+#: widgets.py:317
+msgid "Stamp properties"
+msgstr ""
+
+#~ msgid "Height"
+#~ msgstr "Înălțime"
+
+#~ msgid "Width"
+#~ msgstr " Lățime"
+
+#~ msgid "Choose image"
+#~ msgstr "Alege imaginea"
+
+#~ msgid "Tools"
+#~ msgstr "Unelte"
+
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#~ msgid "Effects"
+#~ msgstr "Efecte"
+
+#~ msgid "Stroke Color"
+#~ msgstr "Culoare pensulă"
+
+#~ msgid "Pencil"
+#~ msgstr "Creion"
+
+#~ msgid "Fill Color"
+#~ msgstr "Culoare de umplere"
+
+#~ msgid "Points: "
+#~ msgstr "Puncte: "
+
+#~ msgid "1000"
+#~ msgstr "1000"
+
+#~ msgid "500"
+#~ msgstr "500"
+
+#~ msgid "200"
+#~ msgstr "200"
+
+#~ msgid "150"
+#~ msgstr "150"
+
+#~ msgid "100"
+#~ msgstr "100"
+
+#~ msgid "50"
+#~ msgstr "50"
+
+#~ msgid "25"
+#~ msgstr "25"
+
+#~ msgid "10"
+#~ msgstr "10"
+
+#~ msgid "ZOOM +"
+#~ msgstr "Lupă +"
+
+#~ msgid "ZOOM -"
+#~ msgstr "Lupă -"
+
+#~ msgid "Rectangular Marquee"
+#~ msgstr "Marcaj dreptunghiular"
+
+#~ msgid "Tool Color"
+#~ msgstr "Unealtă culori"
+
+#~ msgid "Fill Color: "
+#~ msgstr "Culoare de umplere: "

@@ -1,0 +1,328 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-12 00:30-0400\n"
+"PO-Revision-Date: 2011-04-24 12:46+0200\n"
+"Last-Translator: Christian <kryskaka@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Translate Toolkit 1.6.0\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Paint"
+msgstr "Rangi"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Picasso? Van Gogh? You can be any of them! Just let the artist inside you "
+"free. Transform images in your mind to beautiful paintings."
+msgstr ""
+
+#: fontcombobox.py:89
+msgid "Select font"
+msgstr ""
+
+#: toolbox.py:118
+msgid "Edit"
+msgstr "Hariri"
+
+#: toolbox.py:122
+msgid "Shapes properties"
+msgstr ""
+
+#: toolbox.py:133
+msgid "Shapes"
+msgstr "sura"
+
+#: toolbox.py:143
+msgid "Fonts"
+msgstr ""
+
+#: toolbox.py:149
+msgid "Image"
+msgstr "Tawsira or image"
+
+#: toolbox.py:188
+msgid "Undo"
+msgstr "tengua"
+
+#: toolbox.py:189
+msgid "Redo"
+msgstr "fanya mara mbili, redo"
+
+#: toolbox.py:190
+msgid "Copy"
+msgstr "Nakili, or nakala"
+
+#: toolbox.py:191
+msgid "Paste"
+msgstr "kuweka"
+
+#: toolbox.py:199
+msgid "Clear"
+msgstr "wazi or kuvuta"
+
+#: toolbox.py:298 widgets.py:322
+msgid "Brush properties"
+msgstr ""
+
+#: toolbox.py:307 toolbox.py:311
+msgid "Brush"
+msgstr "brush"
+
+#: toolbox.py:314
+msgid "Eraser"
+msgstr "raba"
+
+#: toolbox.py:317
+msgid "Bucket"
+msgstr "ndoo"
+
+#: toolbox.py:320
+msgid "Picker"
+msgstr ""
+
+#: toolbox.py:323
+msgid "Stamp"
+msgstr ""
+
+#: toolbox.py:336
+msgid "Select Area"
+msgstr "kuchagua eneo"
+
+#: toolbox.py:415
+msgid "Fill"
+msgstr "kujaza"
+
+#: toolbox.py:421 widgets.py:286
+msgid "Keep aspect"
+msgstr "kweka kipengele"
+
+#: toolbox.py:438
+msgid "Sides: "
+msgstr "pande"
+
+#: toolbox.py:511
+msgid "Ellipse"
+msgstr "duaradufu"
+
+#: toolbox.py:514
+msgid "Rectangle"
+msgstr "mstatili"
+
+#: toolbox.py:517
+msgid "Line"
+msgstr "mpya"
+
+#: toolbox.py:520
+msgid "Free form"
+msgstr "fomu ya bure"
+
+#: toolbox.py:523
+msgid "Polygon"
+msgstr "pembenyingi"
+
+#: toolbox.py:526
+msgid "Heart"
+msgstr "moyo"
+
+#: toolbox.py:529
+msgid "Parallelogram"
+msgstr "msambamba"
+
+#: toolbox.py:532
+msgid "Arrow"
+msgstr "arrow"
+
+#: toolbox.py:535
+msgid "Star"
+msgstr "nyota"
+
+#: toolbox.py:538
+msgid "Trapezoid"
+msgstr "trapezoid"
+
+#: toolbox.py:541
+msgid "Triangle"
+msgstr "triangle"
+
+#: toolbox.py:574
+msgid "Type"
+msgstr "aina"
+
+#: toolbox.py:665
+msgid "Insert Image"
+msgstr "kutiya image, ku insert image"
+
+#: toolbox.py:678
+msgid "Rotate Left"
+msgstr "muzunguko wa kushoto"
+
+#: toolbox.py:682
+msgid "Rotate Right"
+msgstr "muzunguko wa haki"
+
+#: toolbox.py:687
+msgid "Horizontal Mirror"
+msgstr "kioo usawa"
+
+#: toolbox.py:692
+msgid "Vertical Mirror"
+msgstr "kioo wima"
+
+#: toolbox.py:700
+msgid "Grayscale"
+msgstr "grayscale"
+
+#: toolbox.py:703
+msgid "Rainbow"
+msgstr "upunde wa mvua"
+
+#: toolbox.py:708
+msgid "Invert Colors"
+msgstr "geuza michezo"
+
+#: widgets.py:17
+msgid "Size: "
+msgstr "michezo"
+
+#: widgets.py:17
+msgid "Opacity: "
+msgstr ""
+
+#: widgets.py:17
+msgid "Circle"
+msgstr "duara"
+
+#: widgets.py:17
+msgid "Square"
+msgstr "mraba"
+
+#: widgets.py:31
+msgid "Choose brush properties"
+msgstr ""
+
+#: widgets.py:245
+msgid "Size"
+msgstr ""
+
+#: widgets.py:259
+msgid "Opacity"
+msgstr ""
+
+#: widgets.py:280
+msgid "Shape"
+msgstr "sura"
+
+#: widgets.py:317
+msgid "Stamp properties"
+msgstr ""
+
+#~ msgid "Height"
+#~ msgstr "urefu"
+
+#~ msgid "Width"
+#~ msgstr "upana"
+
+#~ msgid "Choose image"
+#~ msgstr "chagua image, chagua picture,"
+
+#~ msgid "Tools"
+#~ msgstr "vifaa"
+
+#~ msgid "Text"
+#~ msgstr "nakala"
+
+#~ msgid "Effects"
+#~ msgstr "athari"
+
+#~ msgid "Stroke Color"
+#~ msgstr "kiharusi michezo"
+
+#~ msgid "Pencil"
+#~ msgstr "penseli"
+
+#~ msgid "Fill Color"
+#~ msgstr "kujaza michezo"
+
+#~ msgid "Points: "
+#~ msgstr "pointi"
+
+#~ msgid "Keep Aspect"
+#~ msgstr "kuweka kipengle"
+
+#~ msgid "1000"
+#~ msgstr "elfu moja"
+
+#~ msgid "500"
+#~ msgstr "mia tano"
+
+#~ msgid "200"
+#~ msgstr "mia mbili"
+
+#~ msgid "150"
+#~ msgstr "mia moja na hamsini"
+
+#~ msgid "100"
+#~ msgstr "mia moja"
+
+#~ msgid "50"
+#~ msgstr "hamsini"
+
+#~ msgid "25"
+#~ msgstr "ishirini na tano"
+
+#~ msgid "10"
+#~ msgstr "kumi"
+
+#~ msgid "ZOOM +"
+#~ msgstr "zoom+; zoom mingi"
+
+#~ msgid "ZOOM -"
+#~ msgstr "zoom -; zoom kidogo"

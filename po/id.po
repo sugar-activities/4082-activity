@@ -1,0 +1,268 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-12 00:30-0400\n"
+"PO-Revision-Date: 2013-07-05 05:37+0200\n"
+"Last-Translator: andika <andika@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Paint"
+msgstr "Lukis"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Picasso? Van Gogh? You can be any of them! Just let the artist inside you "
+"free. Transform images in your mind to beautiful paintings."
+msgstr ""
+"Picasso? Van Gogh? Anda bisa menjadi mereka! Biarkan saja artis di dalam "
+"dirimu bebas. Transformasikan gambar di pikiran Anda ke lukisan yang indah."
+
+#: fontcombobox.py:89
+msgid "Select font"
+msgstr "Pilih fonta"
+
+#: toolbox.py:118
+msgid "Edit"
+msgstr "Sunting"
+
+#: toolbox.py:122
+msgid "Shapes properties"
+msgstr "Properti bentuk"
+
+#: toolbox.py:133
+msgid "Shapes"
+msgstr "Bentuk"
+
+#: toolbox.py:143
+msgid "Fonts"
+msgstr "Fonta"
+
+#: toolbox.py:149
+msgid "Image"
+msgstr "Gambar"
+
+#: toolbox.py:188
+msgid "Undo"
+msgstr "Tak jadi"
+
+#: toolbox.py:189
+msgid "Redo"
+msgstr "Jadi lagi"
+
+#: toolbox.py:190
+msgid "Copy"
+msgstr "Salin"
+
+#: toolbox.py:191
+msgid "Paste"
+msgstr "Tempel"
+
+#: toolbox.py:199
+msgid "Clear"
+msgstr "Bersihkan"
+
+#: toolbox.py:298 widgets.py:322
+msgid "Brush properties"
+msgstr "Properti kuas"
+
+#: toolbox.py:307 toolbox.py:311
+msgid "Brush"
+msgstr "Kuas"
+
+#: toolbox.py:314
+msgid "Eraser"
+msgstr "Penghapus"
+
+#: toolbox.py:317
+msgid "Bucket"
+msgstr "Ember"
+
+#: toolbox.py:320
+msgid "Picker"
+msgstr "Pemungut"
+
+#: toolbox.py:323
+msgid "Stamp"
+msgstr "Stempel"
+
+#: toolbox.py:336
+msgid "Select Area"
+msgstr "Pilih Area"
+
+#: toolbox.py:415
+msgid "Fill"
+msgstr "Penuhi"
+
+#: toolbox.py:421 widgets.py:286
+msgid "Keep aspect"
+msgstr "Pertahankan aspek"
+
+#: toolbox.py:438
+msgid "Sides: "
+msgstr "Sisi: "
+
+#: toolbox.py:511
+msgid "Ellipse"
+msgstr "Elips"
+
+#: toolbox.py:514
+msgid "Rectangle"
+msgstr "Kotak"
+
+#: toolbox.py:517
+msgid "Line"
+msgstr "Garis"
+
+#: toolbox.py:520
+msgid "Free form"
+msgstr "Bentuk bebas"
+
+#: toolbox.py:523
+msgid "Polygon"
+msgstr "Poligon"
+
+#: toolbox.py:526
+msgid "Heart"
+msgstr "Hati"
+
+#: toolbox.py:529
+msgid "Parallelogram"
+msgstr "Paralelogram"
+
+#: toolbox.py:532
+msgid "Arrow"
+msgstr "Panah"
+
+#: toolbox.py:535
+msgid "Star"
+msgstr "Bintang"
+
+#: toolbox.py:538
+msgid "Trapezoid"
+msgstr "Trapesium"
+
+#: toolbox.py:541
+msgid "Triangle"
+msgstr "Segitiga"
+
+#: toolbox.py:574
+msgid "Type"
+msgstr "Tipe"
+
+#: toolbox.py:665
+msgid "Insert Image"
+msgstr "Sisipkan Gambar"
+
+#: toolbox.py:678
+msgid "Rotate Left"
+msgstr "Putar Kiri"
+
+#: toolbox.py:682
+msgid "Rotate Right"
+msgstr "Putar Kanan"
+
+#: toolbox.py:687
+msgid "Horizontal Mirror"
+msgstr "Cermin Horisontal"
+
+#: toolbox.py:692
+msgid "Vertical Mirror"
+msgstr "Cermin Vertikal"
+
+#: toolbox.py:700
+msgid "Grayscale"
+msgstr "Skala kelabu"
+
+#: toolbox.py:703
+msgid "Rainbow"
+msgstr "Pelangi"
+
+#: toolbox.py:708
+msgid "Invert Colors"
+msgstr "Balikkan Warna"
+
+#: widgets.py:17
+msgid "Size: "
+msgstr "Ukuran: "
+
+#: widgets.py:17
+msgid "Opacity: "
+msgstr "Kelegapan: "
+
+#: widgets.py:17
+msgid "Circle"
+msgstr "Lingkaran"
+
+#: widgets.py:17
+msgid "Square"
+msgstr "Kotak"
+
+#: widgets.py:31
+msgid "Choose brush properties"
+msgstr "Pilih properti kuas"
+
+#: widgets.py:245
+msgid "Size"
+msgstr "Ukuran"
+
+#: widgets.py:259
+msgid "Opacity"
+msgstr "Kelegapan"
+
+#: widgets.py:280
+msgid "Shape"
+msgstr "Bentuk"
+
+#: widgets.py:317
+msgid "Stamp properties"
+msgstr "Properti stempel"
+
+#~ msgid "Height"
+#~ msgstr "Tinggi"
+
+#~ msgid "Width"
+#~ msgstr "Lebar"
+
+#~ msgid "Choose image"
+#~ msgstr "Pilih gambar"

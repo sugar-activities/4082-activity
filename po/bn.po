@@ -1,0 +1,331 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Khandakar Mujahidul Islam <suzan229@gmail.com>, 2007.
+# Loba Yeasmeen <loba@ankur.org.bd>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: honey VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-12 00:30-0400\n"
+"PO-Revision-Date: 2010-03-29 03:21+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Translate Toolkit 1.6.0\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Paint"
+msgstr "রং করো"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Picasso? Van Gogh? You can be any of them! Just let the artist inside you "
+"free. Transform images in your mind to beautiful paintings."
+msgstr ""
+
+#: fontcombobox.py:89
+msgid "Select font"
+msgstr ""
+
+#: toolbox.py:118
+msgid "Edit"
+msgstr "সম্পাদনা করো"
+
+#: toolbox.py:122
+msgid "Shapes properties"
+msgstr ""
+
+#: toolbox.py:133
+msgid "Shapes"
+msgstr "আকৃতি"
+
+#: toolbox.py:143
+msgid "Fonts"
+msgstr ""
+
+#: toolbox.py:149
+msgid "Image"
+msgstr "চিত্র"
+
+#: toolbox.py:188
+msgid "Undo"
+msgstr "আগের অবস্থায় ফিরিয়ে আনো"
+
+#: toolbox.py:189
+msgid "Redo"
+msgstr "আবার করো"
+
+#: toolbox.py:190
+msgid "Copy"
+msgstr "অনুলিপি করো"
+
+#: toolbox.py:191
+msgid "Paste"
+msgstr "প্রতিলেপন করো"
+
+#: toolbox.py:199
+msgid "Clear"
+msgstr "মুছে ফেলো"
+
+#: toolbox.py:298 widgets.py:322
+msgid "Brush properties"
+msgstr ""
+
+#: toolbox.py:307 toolbox.py:311
+msgid "Brush"
+msgstr "ব্রাশ"
+
+#: toolbox.py:314
+msgid "Eraser"
+msgstr "ইরেজার"
+
+#: toolbox.py:317
+msgid "Bucket"
+msgstr "ঝুড়ি"
+
+#: toolbox.py:320
+msgid "Picker"
+msgstr ""
+
+#: toolbox.py:323
+msgid "Stamp"
+msgstr ""
+
+#: toolbox.py:336
+msgid "Select Area"
+msgstr ""
+
+#: toolbox.py:415
+msgid "Fill"
+msgstr "পূরণ করো"
+
+#: toolbox.py:421 widgets.py:286
+msgid "Keep aspect"
+msgstr ""
+
+#: toolbox.py:438
+msgid "Sides: "
+msgstr "পাশ: "
+
+#: toolbox.py:511
+msgid "Ellipse"
+msgstr "উপবৃত্ত"
+
+#: toolbox.py:514
+msgid "Rectangle"
+msgstr "আয়তক্ষেত্র"
+
+#: toolbox.py:517
+msgid "Line"
+msgstr "রেখা"
+
+#: toolbox.py:520
+msgid "Free form"
+msgstr ""
+
+#: toolbox.py:523
+msgid "Polygon"
+msgstr "বহুভূজ"
+
+#: toolbox.py:526
+msgid "Heart"
+msgstr "হৃদয়"
+
+#: toolbox.py:529
+msgid "Parallelogram"
+msgstr "সামান্তরিক ক্ষেত্র"
+
+#: toolbox.py:532
+msgid "Arrow"
+msgstr "তীর চিহ্ন"
+
+#: toolbox.py:535
+msgid "Star"
+msgstr "তারা"
+
+#: toolbox.py:538
+msgid "Trapezoid"
+msgstr "ট্রাপিজয়েড"
+
+#: toolbox.py:541
+msgid "Triangle"
+msgstr "ত্রিভুজ"
+
+#: toolbox.py:574
+msgid "Type"
+msgstr "ধরণ"
+
+#: toolbox.py:665
+msgid "Insert Image"
+msgstr "চিত্র প্রবেশ করাও"
+
+#: toolbox.py:678
+msgid "Rotate Left"
+msgstr "বামে ঘোরাও"
+
+#: toolbox.py:682
+msgid "Rotate Right"
+msgstr "ডানে ঘোরাও"
+
+#: toolbox.py:687
+msgid "Horizontal Mirror"
+msgstr ""
+
+#: toolbox.py:692
+msgid "Vertical Mirror"
+msgstr ""
+
+#: toolbox.py:700
+msgid "Grayscale"
+msgstr "গ্রেস্কেল"
+
+#: toolbox.py:703
+msgid "Rainbow"
+msgstr "রংধনু"
+
+#: toolbox.py:708
+msgid "Invert Colors"
+msgstr ""
+
+#: widgets.py:17
+msgid "Size: "
+msgstr "আকার: "
+
+#: widgets.py:17
+msgid "Opacity: "
+msgstr ""
+
+#: widgets.py:17
+msgid "Circle"
+msgstr "বৃত্ত"
+
+#: widgets.py:17
+msgid "Square"
+msgstr "বর্গক্ষেত্র"
+
+#: widgets.py:31
+msgid "Choose brush properties"
+msgstr ""
+
+#: widgets.py:245
+msgid "Size"
+msgstr ""
+
+#: widgets.py:259
+msgid "Opacity"
+msgstr ""
+
+#: widgets.py:280
+msgid "Shape"
+msgstr "আকৃতি"
+
+#: widgets.py:317
+msgid "Stamp properties"
+msgstr ""
+
+#~ msgid "Height"
+#~ msgstr "উচ্চতা"
+
+#~ msgid "Width"
+#~ msgstr "প্রস্থ"
+
+#~ msgid "Choose image"
+#~ msgstr "চিত্র বেছে নাও"
+
+#~ msgid "Tools"
+#~ msgstr "টুল"
+
+#~ msgid "Text"
+#~ msgstr "টেক্সট"
+
+#~ msgid "Effects"
+#~ msgstr "প্রভাব"
+
+#~ msgid "Stroke Color"
+#~ msgstr "রঙের আঁচড় টানো"
+
+#~ msgid "Pencil"
+#~ msgstr "পেন্সিল"
+
+#~ msgid "Fill Color"
+#~ msgstr "রং দিয়ে পূরণ করো"
+
+#~ msgid "Points: "
+#~ msgstr "বিন্দু: "
+
+#~ msgid "1000"
+#~ msgstr "১০০০"
+
+#~ msgid "500"
+#~ msgstr "৫০০"
+
+#~ msgid "200"
+#~ msgstr "২০০"
+
+#~ msgid "150"
+#~ msgstr "১৫০"
+
+#~ msgid "100"
+#~ msgstr "১০০"
+
+#~ msgid "50"
+#~ msgstr "৫০"
+
+#~ msgid "25"
+#~ msgstr "২৫"
+
+#~ msgid "10"
+#~ msgstr "১০"
+
+#~ msgid "ZOOM +"
+#~ msgstr "ZOOM +"
+
+#~ msgid "ZOOM -"
+#~ msgstr "ZOOM -"
+
+#~ msgid "Rectangular Marquee"
+#~ msgstr "আয়তাকার মার্কি"
+
+#~ msgid "Tool Color"
+#~ msgstr "টুলের রং"
+
+#~ msgid "Fill Color: "
+#~ msgstr "রং দিয়ে পূরণ করো: "

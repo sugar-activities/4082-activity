@@ -1,0 +1,326 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-12 00:30-0400\n"
+"PO-Revision-Date: 2011-03-30 06:22+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Translate Toolkit 1.6.0\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Paint"
+msgstr "نقاشی"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Picasso? Van Gogh? You can be any of them! Just let the artist inside you "
+"free. Transform images in your mind to beautiful paintings."
+msgstr ""
+
+#: fontcombobox.py:89
+msgid "Select font"
+msgstr ""
+
+#: toolbox.py:118
+msgid "Edit"
+msgstr "ویرایش"
+
+#: toolbox.py:122
+msgid "Shapes properties"
+msgstr ""
+
+#: toolbox.py:133
+msgid "Shapes"
+msgstr "اشکال"
+
+#: toolbox.py:143
+msgid "Fonts"
+msgstr ""
+
+#: toolbox.py:149
+msgid "Image"
+msgstr "تصویر"
+
+#: toolbox.py:188
+msgid "Undo"
+msgstr "بی‌اثر کردن"
+
+#: toolbox.py:189
+msgid "Redo"
+msgstr "دوباره"
+
+#: toolbox.py:190
+msgid "Copy"
+msgstr "کپی"
+
+#: toolbox.py:191
+msgid "Paste"
+msgstr "چسباندن"
+
+#: toolbox.py:199
+msgid "Clear"
+msgstr "پاک کردن"
+
+#: toolbox.py:298 widgets.py:322
+msgid "Brush properties"
+msgstr ""
+
+#: toolbox.py:307 toolbox.py:311
+msgid "Brush"
+msgstr "قلم‌مو"
+
+#: toolbox.py:314
+msgid "Eraser"
+msgstr "پاک کن"
+
+#: toolbox.py:317
+msgid "Bucket"
+msgstr "سطل"
+
+#: toolbox.py:320
+msgid "Picker"
+msgstr ""
+
+#: toolbox.py:323
+msgid "Stamp"
+msgstr ""
+
+#: toolbox.py:336
+msgid "Select Area"
+msgstr ""
+
+#: toolbox.py:415
+msgid "Fill"
+msgstr "پر کردن"
+
+#: toolbox.py:421 widgets.py:286
+msgid "Keep aspect"
+msgstr ""
+
+#: toolbox.py:438
+msgid "Sides: "
+msgstr "کناره‌ها:ـ"
+
+#: toolbox.py:511
+msgid "Ellipse"
+msgstr "بیضی"
+
+#: toolbox.py:514
+msgid "Rectangle"
+msgstr "مستطیل"
+
+#: toolbox.py:517
+msgid "Line"
+msgstr "خط"
+
+#: toolbox.py:520
+msgid "Free form"
+msgstr ""
+
+#: toolbox.py:523
+msgid "Polygon"
+msgstr "چند گوشه"
+
+#: toolbox.py:526
+msgid "Heart"
+msgstr "قلب"
+
+#: toolbox.py:529
+msgid "Parallelogram"
+msgstr "متوازی‌الاضلاع"
+
+#: toolbox.py:532
+msgid "Arrow"
+msgstr "پیکان"
+
+#: toolbox.py:535
+msgid "Star"
+msgstr "ستاره"
+
+#: toolbox.py:538
+msgid "Trapezoid"
+msgstr "ذوزنقه"
+
+#: toolbox.py:541
+msgid "Triangle"
+msgstr "مثلث"
+
+#: toolbox.py:574
+msgid "Type"
+msgstr "نوع"
+
+#: toolbox.py:665
+msgid "Insert Image"
+msgstr "جا دادن تصویر"
+
+#: toolbox.py:678
+msgid "Rotate Left"
+msgstr "چرخش به چپ"
+
+#: toolbox.py:682
+msgid "Rotate Right"
+msgstr "چرخش به راست"
+
+#: toolbox.py:687
+msgid "Horizontal Mirror"
+msgstr ""
+
+#: toolbox.py:692
+msgid "Vertical Mirror"
+msgstr ""
+
+#: toolbox.py:700
+msgid "Grayscale"
+msgstr "تناسب خاکستری"
+
+#: toolbox.py:703
+msgid "Rainbow"
+msgstr "رنگین کمان"
+
+#: toolbox.py:708
+msgid "Invert Colors"
+msgstr ""
+
+#: widgets.py:17
+msgid "Size: "
+msgstr "اندازه:ـ"
+
+#: widgets.py:17
+msgid "Opacity: "
+msgstr ""
+
+#: widgets.py:17
+msgid "Circle"
+msgstr "دایره"
+
+#: widgets.py:17
+msgid "Square"
+msgstr "مربع"
+
+#: widgets.py:31
+msgid "Choose brush properties"
+msgstr ""
+
+#: widgets.py:245
+msgid "Size"
+msgstr ""
+
+#: widgets.py:259
+msgid "Opacity"
+msgstr ""
+
+#: widgets.py:280
+msgid "Shape"
+msgstr "شکل"
+
+#: widgets.py:317
+msgid "Stamp properties"
+msgstr ""
+
+#~ msgid "Height"
+#~ msgstr "بلندی"
+
+#~ msgid "Width"
+#~ msgstr "پهنا"
+
+#~ msgid "Choose image"
+#~ msgstr "انتخاب تصویر"
+
+#~ msgid "Tools"
+#~ msgstr "ابزار"
+
+#~ msgid "Text"
+#~ msgstr "متن"
+
+#~ msgid "Effects"
+#~ msgstr "جلوه‌ها"
+
+#~ msgid "Stroke Color"
+#~ msgstr "رنگ روکش"
+
+#~ msgid "Pencil"
+#~ msgstr "مداد"
+
+#~ msgid "Fill Color"
+#~ msgstr "رنگ پر کردن"
+
+#~ msgid "Points: "
+#~ msgstr "نقاط:ـ"
+
+#~ msgid "1000"
+#~ msgstr "۱۰۰۰"
+
+#~ msgid "500"
+#~ msgstr "۵۰۰"
+
+#~ msgid "200"
+#~ msgstr "۲۰۰"
+
+#~ msgid "150"
+#~ msgstr "۱۵۰"
+
+#~ msgid "100"
+#~ msgstr "۱۰۰"
+
+#~ msgid "50"
+#~ msgstr "۵۰"
+
+#~ msgid "25"
+#~ msgstr "۲۵"
+
+#~ msgid "10"
+#~ msgstr "۱۰"
+
+#~ msgid "ZOOM +"
+#~ msgstr "بزرگنمایی +"
+
+#~ msgid "ZOOM -"
+#~ msgstr "کوچکنمایی -"
+
+#~ msgid "Rectangular Marquee"
+#~ msgstr "سایبان مستطیل شکل"
+
+#~ msgid "Tool Color"
+#~ msgstr "ابزار رنگ"
+
+#~ msgid "Fill Color: "
+#~ msgstr "رنگ پر کردن:ـ"

@@ -1,0 +1,21 @@
+;; -*- scheme -*-
+; object definitions ...
+;; Enumerations and flags ...
+
+
+;; From eggfill.h
+
+(define-function fill
+  (c-name "fill")
+  (return-type "none")
+  (parameters
+    '("int []" "pixels")
+    '("int" "x")
+    '("int" "y")
+    '("int" "width")
+    '("int" "height")
+    '("int" "color")
+  )
+)
+
+
